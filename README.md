@@ -42,7 +42,7 @@ Sou um profissional dedicado à análise de dados e ao desenvolvimento de soluç
 
 ## 🌐 Redes Sociais & Contato
 
-🔗 [LinkedIn](#) *[(adicione seu link)](https://www.linkedin.com/in/paulo-henrique-0b81b3249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)*  
+🔗 [LinkedIn](#) *(https://www.linkedin.com/in/paulo-henrique-0b81b3249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)*  
 📧 [E-mail](mailto:PauloHenriqueMLF@hotmail.com)
 
 ---
